@@ -1,1 +1,2 @@
-monopolyゲームのコードになります。
+#monopolyゲーム
+##monopoly gameのコードになります。
