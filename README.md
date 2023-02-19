@@ -1,2 +1,3 @@
-#monopolyゲーム
-##monopoly gameのコードになります。
+# monopolyゲーム
+
+## monopoly gameのコードになります。
