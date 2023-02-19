@@ -2,4 +2,4 @@
 
 ## monopoly gameのコードになります。
 
-![画像名](./SL_monopoly/
+![画像名](./Screenshot (330).png)
